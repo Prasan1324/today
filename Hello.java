@@ -2,16 +2,6 @@ class Hello
 {
 public static void main(String args[])
 {
-<<<<<<< HEAD
-System.out.println("hello from everyone");
-=======
-System.out.println("hello everyone from child");
->>>>>>> child
+System.out.println("hello from local");
 }
 }
-s
-q
-s
-r
-q
-
